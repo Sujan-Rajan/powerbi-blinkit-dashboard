@@ -34,4 +34,3 @@ DAX Measures
 Data Modeling & Formatting
 
 Developed By: Sujanapal M R
-📎 View Portfolio
