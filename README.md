@@ -1,5 +1,6 @@
 # powerbi-blinkit-dashboard
 This Power BI dashboard provides a complete overview of sales performance, outlet types, fat content, and item categories for Blinkit – India’s last-minute app.
+
 📌 Key Highlights:
 Total Sales: $1.20M across 8523 items
 
